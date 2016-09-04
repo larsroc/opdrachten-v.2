@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Egg
+comment0.text=\n\ Write\ a\ description\ of\ class\ Egg\ here.\n\ \n\ @author\ Sjaak\ Setsers\n\ @version\ 1.0\ 02-03-2015\n
+comment1.params=value
+comment1.target=Egg(int)
+comment2.params=
+comment2.target=int\ getValue()
+numComments=3

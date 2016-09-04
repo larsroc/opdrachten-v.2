@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyDodo
+comment0.text=\r\n\ \r\n\ @author\ Sjaak\ Smetsers\r\n\ @version\ Version\ 1.2\ --\ 11-03-2015\r\n
+comment1.params=
+comment1.target=MyDodo()
+comment2.params=init_direction
+comment2.target=MyDodo(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Go\ to\ the\ edge\ of\ the\ world\ and\r\n\ walk\ along\ the\ border\r\n
+comment4.params=
+comment4.target=void\ hatchEgg()
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=int\ getNrOfEggsHatched()
+comment6.params=
+comment6.target=void\ move()
+comment6.text=\r\n\ Move\ one\ cell\ forward\ in\ the\ current\ direction.\r\n
+comment7.params=distance
+comment7.target=void\ jump(int)
+comment7.text=\r\n\ Move\ given\ number\ of\ cells\ forward\ in\ the\ current\ direction.\r\n\ @param\ distance\:\ the\ number\ of\ steps\ made\r\n
+comment8.params=
+comment8.target=boolean\ canMove()
+comment8.text=\r\n\ Test\ if\ we\ can\ move\ forward.\ Return\ true\ if\ we\ can,\ false\ otherwise.\r\n
+numComments=9
